@@ -1,2 +1,6 @@
 # FOSS
-Foss github Practical
+int i=0
+cin("hello world");
+cin(i);
+
+
